@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "145510003667",
+    "firebase_url": "https://clonehalodoc-default-rtdb.firebaseio.com",
+    "project_id": "clonehalodoc",
+    "storage_bucket": "clonehalodoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145510003667:android:496ab318653fa42ef83526",
+        "android_client_info": {
+          "package_name": "com.example.konselingapt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145510003667-mgacoaj55gud6n5hjq1pdnflo7iqio3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfecEb221Kwozan12a1wxygMaiV_hI6rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145510003667-mgacoaj55gud6n5hjq1pdnflo7iqio3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
